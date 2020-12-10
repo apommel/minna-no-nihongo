@@ -103,5 +103,9 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-*.sublime-project
+# vscode
+.vscode/*
+
+# Project specific
 *.db
+*.p
